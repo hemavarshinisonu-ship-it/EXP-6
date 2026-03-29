@@ -24,5 +24,8 @@ PRECAUTION: -
 2. The core should be set to a maximum value of 20mm.
 3. To get the good performance from the kit, main room temperature.
 4. To check the power supply, it should be 220+!- 10% 50Hz to avoid voltage hazard.
+<img width="1052" height="1600" alt="image" src="https://github.com/user-attachments/assets/bb0132ce-04a1-49a3-b0f3-3d225572af5d" />
+<img width="1147" height="1600" alt="image" src="https://github.com/user-attachments/assets/fa2a912d-8191-4276-8b4c-97b32d94057f" />
+<img width="1600" height="1069" alt="image" src="https://github.com/user-attachments/assets/0f000373-b684-4aec-8732-a5b33f512b9d" />
 
 RESULT: - LVDT was studied well and graph of displacement was linear for a particular range.
